@@ -1,2 +1,2 @@
-# biologia-computacional
-Documentação do projeto da disciplina de Biologia Computacional - Doutorado em Bioinformática - UFPR
+# Biologia Computacional - 2026
+Documentação referente ao projeto da disciplina de Biologia Computacional - Doutorado em Bioinformática - UFPR
